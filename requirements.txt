@@ -1,8 +1,8 @@
 anytree
 aria2p
 asyncio
-bencode
 beautifulsoup4
+bencode
 cfscrape
 feedparser
 flask
